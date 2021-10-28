@@ -1,0 +1,17 @@
+body{
+ background-color: grey;
+}
+.containerfluid{
+	background-color:#E77676;
+	/** "#" needed for number code
+	White=#FFFFFF**/
+}
+.picture{
+	position-relative: 100px;
+} 
+td, th{
+border: 3px solid black;
+text-align: left;
+padding-left: 10px;
+padding-bottom: 5px
+}
